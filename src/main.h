@@ -7,7 +7,7 @@
 #define LD1_GPIO_PORT                          GPIOC
 #define LD1_GPIO_CLK_ENABLE()                  __HAL_RCC_GPIOC_CLK_ENABLE()
 
-#ifdef USING_LPUART
+#ifdef USING_LPUART1
 #define HLPUART1_TX_PIN                         GPIO_PIN_7
 #define HLPUART1_TX_GPIO_PORT                   GPIOG
 #define HLPUART1_RX_PIN                         GPIO_PIN_8

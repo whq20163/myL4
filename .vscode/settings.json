@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "stm32l4xx_hal.h": "c"
+    },
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/whq/.platformio/penv/bin:/home/whq/.platformio/penv:/home/whq/.local/bin:/home/whq/.platformio/packages/toolchain-gccarmnoneeabi/bin:/home/whq/.platformio/packages/tool-stlink/bin:/home/whq/.platformio/penv/bin:/home/whq/.platformio/penv:/home/whq/.local/bin:/home/whq/.platformio/packages/toolchain-gccarmnoneeabi/bin:/home/whq/.platformio/packages/tool-stlink/bin:/opt/openocd/bin:/home/whq/.platformio/packages/toolchain-gccarmnoneeabi/bin:/home/whq/.local/bin:/opt/openocd/bin:/home/whq/.platformio/packages/toolchain-gccarmnoneeabi/bin:/home/whq/.local/bin:/home/whq/.platformio/penv/bin:/home/whq/.platformio/penv:/home/whq/.local/bin:/home/whq/.platformio/packages/toolchain-gccarmnoneeabi/bin:/home/whq/.platformio/packages/tool-stlink/bin:/opt/openocd/bin:/home/whq/.platformio/packages/toolchain-gccarmnoneeabi/bin:/home/whq/.local/bin:/opt/openocd/bin:/home/whq/.platformio/packages/toolchain-gccarmnoneeabi/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
