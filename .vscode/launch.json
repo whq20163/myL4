@@ -1,0 +1,31 @@
+// AUTOMATICALLY GENERATED FILE. PLEASE DO NOT MODIFY IT MANUALLY
+
+// PIO Unified Debugger
+//
+// Documentation: http://docs.platformio.org/page/plus/debugging.html
+// Configuration: http://docs.platformio.org/page/projectconf/section_env_debug.html
+
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "platformio-debug",
+            "request": "launch",
+            "name": "PIO Debug",
+            "executable": "/home/whq/Documents/PlatformIO/Projects/L4/.pioenvs/nucleo_l496zg/firmware.elf",
+            "toolchainBinDir": "/home/whq/.platformio/packages/toolchain-gccarmnoneeabi/bin",
+            "svdPath": "/home/whq/.platformio/platforms/ststm32/misc/svd/STM32L4x6.svd",
+            "preLaunchTask": "PlatformIO: Pre-Debug",
+            "internalConsoleOptions": "openOnSessionStart"
+        },
+        {
+            "type": "platformio-debug",
+            "request": "launch",
+            "name": "PIO Debug (Skip Pre-Debug)",
+            "executable": "/home/whq/Documents/PlatformIO/Projects/L4/.pioenvs/nucleo_l496zg/firmware.elf",
+            "toolchainBinDir": "/home/whq/.platformio/packages/toolchain-gccarmnoneeabi/bin",
+            "svdPath": "/home/whq/.platformio/platforms/ststm32/misc/svd/STM32L4x6.svd",
+            "internalConsoleOptions": "openOnSessionStart"
+        }
+    ]
+}
